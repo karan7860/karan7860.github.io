@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Papers"
+title: "Papers"
 permalink: /papers/
 author_profile: true
 redirect_from:
@@ -10,16 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-* [**Oil-well Flow-Rate Forecasting Using Auto-Regressive Model**](http://dx.doi.org/10.2139/ssrn.3502754) <br />
-  **Lele, Shreyas**, - Elsevier's SSRN (Jan 2020)
+* [**Cloud Based Mobile Social TV**](https://www.irjet.net/archives/V4/i3/IRJET-V4I3587.pdf) <br />
+  **Sonawane, Karan**, - International Research Journal of Engineering and Technology (IRJET) (March 2017)
   
-* [**Stock Market Trading Agent Using On-Policy Reinforcement Learning Algorithms**](http://dx.doi.org/10.2139/ssrn.3582014) <br />
-  **Lele, Shreyas** and Gangar, Kavit and Daftary, Harshal and Dharkar, Dewashish - Elsevier's SSRN (May 2020)
+* [**IIoT for Monitoring Oil well production to ensure reliability**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370201) <br />
+  **Sonawane, Karan** Elsevier's SSRN (April 2019)
   
-* [**Analysis of Well Head Pressure Sensor Data for Anomaly Detection in Oil Well using IIoT and Unsupervised learning Technique**](https://www.irjet.net/archives/V6/i10/IRJET-V6I10108.pdf) <br />
-  **Shreyas Lele** - Volume: 06 Issue: 10 | Oct 2019, International Research Journal of Engineering and Technology (IRJET)
+* [**Timeseries Prediction and Anomaly Detection in Oil and Gas**](http://www.jetir.org/view?paper=JETIRCS06035) <br />
+  **Sonawane, Karan** - Vol.6, Issue 5, page no.151-156, May 2019 
   
-* **Hindi to English: Transformer-Based Neural Machine Translation** <br />
-  Kavit Gangar, Hardik Ruparel, **Shreyas Lele** - International Conference on Communication, Computing and Electronic Systems(ICCCES 2020).<br /> 
-  (Above paper is queued for getting published in the Springer Lecture Notes in Electrical Engineering, will receive link soon).
- 
+
