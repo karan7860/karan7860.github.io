@@ -1,4 +1,4 @@
----
+---`
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shreyas Lele. I am currently working with Baker Hughes in their elite Aspire Leadership Program as a Software Engineer. I have completed my B. Tech in Information Technology from VJTI, Mumbai.  
+Hi, I am Karan Sonawane. I am currently working with Baker Hughes (Earlier known as General Electric's Oil and Gas) as a Software Engineering Specialist. I have completed my Bachelors & Masters of Engineering in Information Technology from University of Mumbai. Currently Pursuing MBA in Business Analytics from BITS Pilani.  
 
-I am interested in Machine Learning, Reinforcement Learning, Cloud Based Analytics, developing intelligent bots and want to explore the Artificial Intelligence domain.
+I have completed major certifications such as Certified Scrum Master, Six Sigma Green Belt, Customer Analytics.
 
-I have successfully completed projects based upon Reinforcement Learning, Time series forecasting, Neural Machine Translation. I have industrial experience in server-less cloud computing and cloud based analytics. I have accomplished end-to-end projects from intial designing, to production ready on-cloud deployment. 
+I am interested in Product Management, Data & Analytics Business Requirement, Software Infrastructure, Software Project Management and want to explore the Technical Product Management domain.
 
-Apart from that, I like playing various sports and love to travel. I relish playing guitar and piano. I also enjoy computer gaming.  
+I have successfully completed projects based upon Machine Learning, Time series forecasting. I have industrial experience in server-less cloud computing and cloud based analytics. I have accomplished end-to-end projects from intial designing, to production ready on-cloud deployment which includes AWS, Kubernetes, Docker. 
+
+Apart from that, I like playing various sports and love to travel. I relish playing Cricket and Chess. I also enjoy computer gaming.  
