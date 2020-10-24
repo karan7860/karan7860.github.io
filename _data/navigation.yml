@@ -3,15 +3,20 @@ main:
   - title: "Research Papers"
     url: /papers/
     
-  - title: "Projects"
+  - title: "Patent"
+    url: /papers/
+
+  - title: "Technical Projects"
     url: /projects/
     
   - title: "Industrial Experience"
     url: /industrialexperience/
     
   - title: "CV"
-    url: /files/Resume_Shreyaslele.pdf    
- 
+    url: /files/ResumeTPMkaran.pdf    
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
    
 
   
