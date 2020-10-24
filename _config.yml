@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shreyas Lele"
+title                    : "Karan Sonawane"
 title_separator          : "-"
-name                     : &name "Shreyas Lele"
+name                     : &name "Karan Sonawane"
 description              : &description ""
-url                      : https://shreyas2398.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://karan7860.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shreyas2398/shreyas2398.github.io"
+repository               : "karan7860/karan7860.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shreyas Lele"
+  name             : "Karan Sonawane"
   avatar           : "profile.png"
-  bio              : "Machine Learning enthusiast | BTech in Information Technology | Currently working at Baker Hughes"
+  bio              : "Product Management enthusiast. BE & ME in Information Technology, MBA in Business Analytics, currently working at Baker Hughes"
   location         : "Mumbai, India"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "shreyaslele2398@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "karan16786@gmail.com, karan.sonawane@ge.com, karan.sonawane@bakerhughes.com"
+  researchgate     : "https://www.researchgate.net/publication/332491010_IIOT_for_Monitoring_Oil_Well_Production_and_Ensure_Reliability"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shreyas-lele-a8271813b"
+  linkedin         : "karan-s-085a1a1a9 "
   orcid            :
   pinterest        :
   soundcloud       :
